@@ -8,7 +8,7 @@
  
 # <h1 align="center">**`Accidentes Aereos`**</h1>
 
-¡Bienvenidos al último proyecto individual de la etapa de labs! En esta ocasión, deberán hacer un trabajo situándose en el rol de un ***Data Analyst***.
+¡Bienvenidos a mi proyecto individual de Data Analytics! 
 <p align='center'>
 <img src="https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2016%2F09%2F15%2F16%2F13%2Fairplane-1671967_1280.jpg"  height=300>
 <p>
@@ -106,10 +106,29 @@ Además parece que aunque los promedio de porcentajes de fallecidos tanto de pas
 
 ### **Conclusiones**
 
-Se observa que hemos avanzado muchisimo en reducir la cantidad de accidentes por año desde 60-85
-que se mantenía desde 1940 hasta finales de la decada de los 90, pero a partir del incidente de las torres gemelas , cambió el paradigma de la seguridad aérea y eso se reflejo en un reducción drástica de los niveles de
+Se observa que hemos avanzado muchísimo en reducir la cantidad de accidentes por año desde 60-85
+que se mantenía desde 1940 hasta finales de la decada de los 90, pero a partir del incidente de las torres gemelas , cambió el paradigma de la seguridad aérea y eso se reflejó en un reducción drástica de la cantidad de accidentes y de muertos aún cuando al mismo tiempo cada vez mas gente viaja y a menor costo , hoy en dia existen las "low cost", por los que mas viajes y menos accidentes es una mejoras increible la que ha habido.
 
+Sin embargo hay un problema que parece no tener solución y esto se ve en todas las métricas relacionadas con el porcentaje de muertos con respecto a la personas a bordo lleva estancado de desde los años 40-50s casi un siglo.
 
+Esto tambien se ve reflejado en los KPIs Tasa de Fatalidad de la Tripulación y Tasa de Supervivencia de la poblacion, ambos no se cumplieron en cuanto al objetivo de mejora del 10% con respecto a la última decada.
+
+En tantos años o no se ha puesto foco o no se ha encontrado la solución al problema de la mortalidad.
+
+Entonces volviendo a las preguntas iniciales :
+
+¿Qué nos depara el futuro?
+
+Si la tendencia continúa los accidentes aereos seran escasos, muy escasos en el futuro , el 
+el panorama es muy optimista.
+
+¿El fin de los accidentes aereos?
+
+Podria decirse que estamos cerca , aunque nunca se reducirán a 0 si continuamos por este camino estaremos muy cerca, con las mejoras tecnologicas de conduccion autonoma , mejora de controles del estado de la aeronave, pronóstico climatico y telecomunicaciones podriamos a llegar a algo parecido.
+
+¿Qué pasa con la mortalidad?
+
+Vemos que siempre fue complicado evitar muertes una vez ocurridos los accidentes aereos , quiza se puedan innovar en este ambito tanto tecnologicamente como protocolarmente.
 
 
 #### **Herramintas y Librerias** 
