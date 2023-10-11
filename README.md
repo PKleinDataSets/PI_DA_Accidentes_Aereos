@@ -82,8 +82,8 @@ A medida que la aviación comercial continuó creciendo y los aviones se hiciero
 
 Hoy en día, el promedio de pasajeros por vuelo puede variar significativamente dependiendo de la ruta, la aerolínea y el tipo de avión. Los vuelos de corta distancia en aviones más pequeños pueden tener menos pasajeros, mientras que los vuelos de larga distancia en aviones más grandes pueden tener cientos de pasajeros. El promedio global de pasajeros por vuelo en la actualidad se encuentra en el rango de 100 a 150 pasajeros aproximadamente, aunque esto puede variar
 
-#### **Analisis Sobre los accidentes** :
-
+#### **Analisis Sobre los accidentes: ¿Qué nos depara el futuro?** :
+### **¿El fin de los accidentes aereos? ¿ Que pasa con la mortalidad?**
 Teniendo en cuenta el contexto de la aviacion a traves del tiempo y los datos obtenidos sobre los accidentes correspondientes al periodo desde el año 1908 a hasta Julio del Año 2021.
 Se puede como la cantidad de accidentes aumenta rapidamente desde casi 0 en 1908 a 81 en 1947 , con un ritmo de incremento exponencial.
 
@@ -102,8 +102,12 @@ Los KPIs Tasa de Fatalidad de la tripulación y tasa de Supervivencia de los pas
 
 La tasa de fatalidad de la tripulacion se encuentra bastante estable desde la decada del 40 incluso parece haber una leve tendencia en aumento, esto quiza se deba a que los aviones comerciales cada vez son mas grandes y con una tripulacion mayor
 
-Además parece que aunque los promedio de porcentajes de fallecidos tanto de pasajeros como de tripulantes son similares el porcentaje de muertos de la tripulacion está un poco por encima de el porcentaje de pasajeros.
+Además parece que aunque los promedio de porcentajes de fallecidos tanto de pasajeros como de tripulantes son similares el porcentaje de muertos de la tripulación está un poco por encima de el porcentaje de pasajeros.
 
+### **Conclusiones**
+
+Se observa que hemos avanzado muchisimo en reducir la cantidad de accidentes por año desde 60-85
+que se mantenía desde 1940 hasta finales de la decada de los 90, pero a partir del incidente de las torres gemelas , cambió el paradigma de la seguridad aérea y eso se reflejo en un reducción drástica de los niveles de
 
 
 
